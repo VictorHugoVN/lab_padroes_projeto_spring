@@ -1,6 +1,8 @@
 package one.digitalInnovation.gof.service;
 
 import one.digitalInnovation.gof.model.Cliente;
+import org.springframework.stereotype.Service;
+
 
 public interface ClienteService {
 
